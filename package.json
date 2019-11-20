@@ -30,7 +30,7 @@
     "umd"
   ],
   "main": "index.js",
-  "module": "esm/react-router-dom.js",
+  "module": "esm/react-router-dom-5.js",
   "sideEffects": false,
   "scripts": {
     "build": "rollup -c",
